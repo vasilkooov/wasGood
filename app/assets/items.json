@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "LowRider",
+    "color": "green",
+    "issueData": "Mon, 25 Dec 1995 13:30:00 GMT",
+    "price": 10,
+    "raiting": 5,
+    "inStock": true,
+    "image": true
+  },
+    {
+    "id": "2",
+    "name": "Api",
+    "color": "white",
+    "issueData": "Mon, 25 Dec 1995 13:30:00 GMT",
+    "price": 15,
+    "raiting": 5,
+    "inStock": true,
+    "image": true
+  },
+
+  {
+    "id": "3",
+    "name": "Serfer",
+    "color": "orange",
+    "issueData": "Mon, 25 Dec 1995 13:30:00 GMT",
+    "price": 20,
+    "raiting": 5,
+    "inStock": true,
+    "image": true
+  }
+
+] 
